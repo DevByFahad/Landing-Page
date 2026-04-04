@@ -4,7 +4,7 @@ A modern and responsive **Landing Page** designed to showcase a product, service
 
 ---
 
-🔗 **Live Demo:** https://DevByFahad.github.io/Landing-Page/
+🔗 **Live Demo:** https://devbyfahad.github.io/Responsive-Landing-Page/
 
 ---
 
